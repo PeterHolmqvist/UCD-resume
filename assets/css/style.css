@@ -9,4 +9,8 @@ header {
     background-position: center;
     background-repeat: none;
     background-size: cover;
+    min-height: 360px;
+    transition: all .05s ease-in-out;
+    -moz-transition: all .05s ease-in-out;
+    -webkit-transition: all .05s ease-in-out;
 }
