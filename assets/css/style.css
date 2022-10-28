@@ -22,6 +22,22 @@
     background-color: #525252
 }
 
+/*---------------------- special paddings/margin/text  ----------------------*/
+
+h1, h2, h3, h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "EXO", sans-serif;
+    font-weight: 300;
+    color: #fafafa
+
+}
 /*---------------------- heading ----------------------*/
 
 header {
@@ -121,4 +137,12 @@ h2.title {
 .menuitem .hvr-sweep-to-bottom:before {
     background-color: rgba(0, 0, 0, 0.2);
     height: 120px;
+}
+
+/*---------------------- heading ----------------------*/
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
 }
