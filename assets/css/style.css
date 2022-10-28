@@ -77,7 +77,7 @@ h2.title {
 
 #nav li {
     font-size: 22px;
-    padding-top: 28px;;
+    padding-top: 18px;;
 }
 
 .menuitem {
@@ -93,7 +93,36 @@ h2.title {
     height: 120px;
 }
 
-menuitem li a i {
+menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+/*---------------------- i elements targeted with ID ----------------------*/
+#home i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+#resume i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+#contact i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+#download i {
     padding-top: 22px;
     display: block;
     color: #fafafa;
