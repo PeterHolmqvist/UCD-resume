@@ -66,3 +66,11 @@ h2.title {
     font-weight: 200;
     margin-bottom: 50px;
 }
+
+.list-inline-item:not(:last-child) {
+    margin: 0%;
+}
+
+.menucontainer {
+    font-size: 0;
+}
