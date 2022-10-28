@@ -76,6 +76,26 @@ h2.title {
 }
 
 #nav li {
-    font-size: 14px;
+    font-size: 22px;
+    padding-top: 28px;;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
     padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    height: 120px;
+}
+
+menuitem li a i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
 }
