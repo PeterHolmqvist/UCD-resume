@@ -64,6 +64,7 @@ header {
 h2.title {
     font-weight: 200;
     margin-bottom: 50px;
+    font-size: 28px;
 }
 
 .list-inline-item:not(:last-child) {
