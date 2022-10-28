@@ -56,15 +56,16 @@ header {
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 28px;
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 0px;
     color: #fff;
 }
 
 h2.title {
     font-weight: 200;
-    margin-bottom: 50px;
-    font-size: 28px;
+    margin-bottom: 90px;
+    font-size: 22px;
+    margin-top: 30px;
 }
 
 .list-inline-item:not(:last-child) {
@@ -77,7 +78,11 @@ h2.title {
 
 #nav li {
     font-size: 22px;
-    padding-top: 18px;;
+    padding-top: 0px;;
+}
+
+#nav {
+    margin: 0;
 }
 
 .menuitem {
@@ -109,4 +114,11 @@ h2.title {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+
+/*---------------------- hoover .css ----------------------*/
+
+.menuitem .hvr-sweep-to-bottom:before {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 120px;
 }
