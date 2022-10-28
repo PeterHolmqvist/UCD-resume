@@ -26,3 +26,27 @@ header {
     -moz-transition: all .05s ease-in-out;
     -webkit-transition: all .05s ease-in-out;
 }
+
+.name {
+    font-family: "EXO", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #fff;
+
+}
+
+.bg-color-name-title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #fff;
+}
+
+h2.title {
+    margin-bottom: 90px;
+    font-weight: 200;
+    margin-bottom: 50px;
+}
