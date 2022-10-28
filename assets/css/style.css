@@ -93,38 +93,20 @@ h2.title {
     height: 120px;
 }
 
-menuitem a i {
+.menuitem a i {
     padding-top: 22px;
     display: block;
     color: #fafafa;
     font-size: 26px;
 }
 
-/*---------------------- i elements targeted with ID ----------------------*/
-#home i {
-    padding-top: 22px;
+.menuitem span {
     display: block;
-    color: #fafafa;
-    font-size: 26px;
-}
-
-#resume i {
-    padding-top: 22px;
-    display: block;
-    color: #fafafa;
-    font-size: 26px;
-}
-
-#contact i {
-    padding-top: 22px;
-    display: block;
-    color: #fafafa;
-    font-size: 26px;
-}
-
-#download i {
-    padding-top: 22px;
-    display: block;
-    color: #fafafa;
-    font-size: 26px;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
 }
