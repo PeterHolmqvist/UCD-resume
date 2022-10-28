@@ -5,5 +5,8 @@ header {
 }
 
 .logo {
-    
+    background: url("/assets/images/rosie.jpg");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
 }
