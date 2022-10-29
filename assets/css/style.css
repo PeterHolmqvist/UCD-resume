@@ -170,7 +170,7 @@ footer {
     padding-bottom: 15px;
 }
 
-.social-links li a i {
+#twitter {
     width: 32px;
     height: 32px;
     padding: 12px 0;
@@ -186,8 +186,93 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.social-links li a i:hover {
+#twitter:hover {
     background: #e84610;
+    cursor: pointer;
+}
+
+#facebook {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#facebook:hover {
+    background: #e84610;
+    cursor: pointer;
+}
+
+#linkedin {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#linkedin:hover {
+    background: #e84610;
+    cursor: pointer;
+}
+
+#instagram {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#instagram:hover {
+    background: #e84610;
+    cursor: pointer;
+}
+
+#youtube {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#youtube:hover {
+    background: #e84610;
+    cursor: pointer;
 }
 
 #footer-details {
